@@ -66,9 +66,7 @@ li.pane {
 }
 
 .media-caption {
-  flex-grow: 1;
-  font-size: larger;
-  margin-top: 1em;
+  display: none;
 }
 
 .time-stamp {
